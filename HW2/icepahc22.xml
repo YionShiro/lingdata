@@ -998,3 +998,7 @@
 <word pos="SCONJ"	 lemma="að"	 />að</world>
 <word pos="PRON"	 lemma="hann"	 />hans</world>
 <word pos="NOUN"	 lemma="ásjána"	 />ásjána</world>
+
+
+\3\t\2\t\1
+<word pos="\1"\t\ lemma="\2\"\t\ />\3\</world>
